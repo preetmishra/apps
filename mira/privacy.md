@@ -31,7 +31,3 @@ If you purchase a subscription or one-time support tier, payment is processed by
 ## Contact
 
 **Email:** ipreetmishra@gmail.com
-
-## Changes
-
-We may update this policy from time to time. The “Last updated” date at the top will change when we do.
