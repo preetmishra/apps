@@ -1,4 +1,4 @@
-# Privacy Policy for Mira
+# Privacy Policy
 
 **Last updated: July 5, 2026**
 
