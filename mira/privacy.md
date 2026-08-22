@@ -8,11 +8,9 @@
 
 Your migraine logs and app settings stay on your device unless you choose optional features below.
 
-
 ## What stays on your device
 
-Everything you enter in Mira — episodes, symptoms, triggers, medications, and preferences — is stored locally on your iPhone or iPad. We cannot see it.
-
+Everything you put in Mira is stored locally on your iPhone or iPad. We cannot see it.
 
 ## Optional features (your choice)
 
@@ -22,11 +20,9 @@ Everything you enter in Mira — episodes, symptoms, triggers, medications, and 
 
 You can disable or revoke these at any time in Settings or in the Health app.
 
-
 ## Subscriptions
 
 If you purchase a subscription or one-time support tier, payment is processed by Apple. We use a payment service only to verify your purchase status. We do not receive your payment details or health data.
-
 
 ## Contact
 
